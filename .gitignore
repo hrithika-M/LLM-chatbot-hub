@@ -179,3 +179,34 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# -----------------------
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+
+# Web/Frontend
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+*.tmp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build (Optional)
+build/
+dist/
+
+# Environment Files
+.env
+.env.*
+
+# -----------------------
+# Project-Specific Ignored Files
+mobile_dataset.ipynb
+*.pth
