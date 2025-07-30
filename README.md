@@ -6,7 +6,22 @@ This project is a lightweight demonstration of integrating frontend design with 
 
 ## 📁 Project Structure
 
-<pre> ```text CRR/ ├── static/ # CSS or image files │ └── style.css ├── templates/ # HTML templates (if using Flask/Django) │ └── index.html ├── code.py # Python logic (possibly backend or algorithm) ├── code.java # Java logic or experimental backend ├── CRR.js # JavaScript for interactivity ├── chatbot.html # Chatbot interface ├── CRAO.html # Info or landing page ├── rtp.html # Possibly related to real-time processing ├── Test.html # Testing interface ├── .gitignore # Ignored files config └── README.md # Project documentation ``` </pre>
+```
+CRR/
+├── static/                # CSS or image files
+│   └── style.css
+├── templates/             # HTML templates (if using Flask/Django)
+│   └── index.html
+├── code.py                # Python logic (possibly backend or algorithm)
+├── code.java              # Java logic or experimental backend
+├── CRR.js                 # JavaScript for interactivity
+├── chatbot.html           # Chatbot interface
+├── CRAO.html              # Info or landing page
+├── rtp.html               # Possibly related to real-time processing
+├── Test.html              # Testing interface
+├── .gitignore             # Ignored files config
+└── README.md              # Project documentation
+```
 
 
 
