@@ -8,18 +8,19 @@ This project is a lightweight demonstration of integrating frontend design with 
 
 CRR/
 ├── static/
-│ └── style.css # Stylesheet for UI
+│   └── style.css
 ├── templates/
-│ └── index.html # Home page template
-├── code.py # Python script (backend logic/demo)
-├── code.java # Java implementation (algorithm demo)
-├── CRR.js # JavaScript for UI interactivity
-├── chatbot.html # Frontend chatbot interface
-├── CRAO.html # Additional HTML page
-├── rtp.html # RTP info/display page
-├── Test.html # Test version of UI
-├── .gitignore # Git ignored files
-├── README.md # Project documentation
+│   └── index.html
+├── code.py
+├── code.java
+├── CRR.js
+├── chatbot.html
+├── CRAO.html
+├── rtp.html
+├── Test.html
+├── .gitignore
+└── README.md
+
 
 
 ---
