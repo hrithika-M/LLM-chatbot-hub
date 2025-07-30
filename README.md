@@ -1,6 +1,6 @@
 # LLM-Chatbot-Hub Web Interface
 
-This project is a lightweight demonstration of integrating frontend design with backend logic using multiple programming languages — **HTML, CSS, JavaScript, Python, and Java**. It features basic chatbot interactions, static webpage templates, and algorithmic code snippets.
+This project is a College Recommendation System developed as part of an academic assignment at C.R. Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS). It is a multi-language web application that combines a user-friendly chatbot interface (built using HTML and JavaScript) with backend logic written in Python and Java. The system is designed to interact with users and guide them in selecting suitable colleges based on their preferences and input. It demonstrates integration across frontend and backend technologies, offering both interactivity and intelligent decision-making capabilities.
 
 ---
 
